@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flowzilla" alt="flowzilla" /></a> </p>
 
-- 🔭 I’m currently working on [Myra Bot](https://myrabot.de)
+- 🔭 I’m currently working on a Privat API + Website Project
 
-- ❤️ I love Debian 
+- ❤️ I love Debian
 
 - 👑 I’m the Owner of the Verified Discord Bot named Soundflow ( 1125+ Servers )
 
 - 🌱 I’m currently learning **TS, SQL, LUA & PHP**
-
-- 📫 How to reach me **contact@myrabot.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

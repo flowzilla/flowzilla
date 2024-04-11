@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on [Myra Bot](https://myrabot.de)
 
-- 👑 Owner of the Verified Discord Bot named Soundflow ( 1125+ Servers )
+- ❤️ I love Debian 
+
+- 👑 I’m the Owner of the Verified Discord Bot named Soundflow ( 1125+ Servers )
 
 - 🌱 I’m currently learning **TS, SQL, LUA & PHP**
 

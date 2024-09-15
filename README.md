@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm V01D</h1>
-<h3 align="center">A frontend & backend developer from Germany</h3>
+<h3 align="center">A backend developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flowzilla&label=Profile%20views&color=0e75b6&style=flat" alt="flowzilla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flowzilla" alt="flowzilla" /></a> </p>
 
-- 🔭 I’m currently working on a Privat API + Website Project
+- 🔭 I am currently working on a FiveM authentication system that can be controlled via a panel
 
 - ❤️ I love Debian
 
-- 👑 I’m the Owner of the Verified Discord Bot named Soundflow ( 1125+ Servers )
+- 👑 I’m the Owner of the Verified Discord Bot named Soundflow ( 1390+ Servers ) and a FiveM Source Code Shop with 90+ Clients
 
-- 🌱 I’m currently learning **TS, SQL, LUA & PHP**
+- 🌱 I’m currently learning **TS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/BScfRX4U6p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BScfRX4U6p" height="30" width="40" /></a>
+<a href="https://discord.gg/v01dclients" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BScfRX4U6p" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm V01D</h1>
+<h1 align="center">Hi 👋, I'm Auth</h1>
 <h3 align="center">A backend developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flowzilla&label=Profile%20views&color=0e75b6&style=flat" alt="flowzilla" /> </p>
@@ -9,13 +9,13 @@
 
 - ❤️ I love Debian
 
-- 👑 I’m the Owner of the Verified Discord Bot named Soundflow ( 1390+ Servers ) and a FiveM Source Code Shop with 90+ Clients
+- 👑 I’m the Owner of the Verified Discord Bot named Soundflow ( 1990+ Servers ) and a FiveM Source Code Shop with 120+ Clients
 
 - 🌱 I’m currently learning **TS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/v01dclients" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BScfRX4U6p" height="30" width="40" /></a>
+<a href="https://discord.gg/authify" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BScfRX4U6p" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

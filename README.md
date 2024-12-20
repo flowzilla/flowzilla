@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flowzilla" alt="flowzilla" /></a> </p>
 
-- 🔭 I am currently working on a FiveM authentication system that can be controlled via a panel
+- 🔭 I am currently working on LUNA, a Discord Backup & Security Service
 
 - ❤️ I love Debian
 
-- 👑 I’m the Owner of the Verified Discord Bot named Soundflow ( 1990+ Servers ) and a FiveM Source Code Shop with 120+ Clients
+- 👑 I’m the Owner of the Verified Discord Bot named Soundflow ( 2000+ Servers ) and a FiveM Source Code Shop with 120+ Clients
 
 - 🌱 I’m currently learning **TS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/authify" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BScfRX4U6p" height="30" width="40" /></a>
+<a href="https://e-z.bio/auth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BScfRX4U6p" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

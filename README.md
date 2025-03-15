@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flowzilla" alt="flowzilla" /></a> </p>
 
-- 🔭 I am currently working on LUNA, a Discord Backup & Security Service
-
 - ❤️ I love Debian
 
 - 👑 I’m the Owner of the Verified Discord Bot named Soundflow ( 2000+ Servers ) and a FiveM Source Code Shop with 120+ Clients
